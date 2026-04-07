@@ -29,4 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
