@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0874-walking-robot-simulation](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,8 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
