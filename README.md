@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0443-string-compression) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Array
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 <!---LeetCode Topics End-->
