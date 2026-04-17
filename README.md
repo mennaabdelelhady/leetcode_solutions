@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Simulation
 |  |
 | ------- |
