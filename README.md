@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0874-walking-robot-simulation](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [3488-closest-equal-element-queries](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0146-lru-cache) |
 | [2069-walking-robot-simulation-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Divide and Conquer
 |  |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
