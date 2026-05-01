@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0396-rotate-function](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0396-rotate-function](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3225-maximum-score-from-grid-operations](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3225-maximum-score-from-grid-operations) |
