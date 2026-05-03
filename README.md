@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0146-lru-cache) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
