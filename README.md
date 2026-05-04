@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0283-move-zeroes](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
