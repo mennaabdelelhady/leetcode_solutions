@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0443-string-compression) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
