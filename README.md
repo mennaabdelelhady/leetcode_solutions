@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0443-string-compression) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1861-rotating-the-box) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1861-rotating-the-box](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3742-maximum-path-score-in-a-grid) |
