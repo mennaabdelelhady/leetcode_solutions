@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3225-maximum-score-from-grid-operations](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2069-walking-robot-simulation-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
