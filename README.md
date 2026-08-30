@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/mennaabdelelhady/leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
